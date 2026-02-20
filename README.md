@@ -11,8 +11,8 @@ Founder/CTO building cloud systems, real-time pipelines, and Solana DeFi.
 ### Research Engineer HCI & AI research on **real-time gestural control of vocal synthesis** submission track (NIME 2026): *“Exploring Real-Time Gestural Control of Vocal Synthesis”*
   real-time audio pipeline integrating **articulatory synthesis**, **psychoacoustic mapping**...
 ### Proteus Group — Founder (Tech Research Student Federation, EU)
-### PrC — Founder (CEO & CTO), B2B Marketplace
-### PiggyBank — Co-Founder / CTO, Solana DeFi (tokenized stocks) - *+2M$*
+### Founder (CEO & CTO), B2B Marketplace
+### Co-Founder / CTO, Solana DeFi (tokenized stocks) - *+2M$*
 
 ## Awards (selected)
 - **Top 1% (High School)** · **Merit scholarship (€3,000)**
