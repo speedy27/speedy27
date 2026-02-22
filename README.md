@@ -1,7 +1,8 @@
-# Ad — Research Student (HCI × AI) · Security & AI · RL/Robotics (UAV) · Systems Builder
+# Adrien S - Research Student (HCI × AI) · Security & AI · ML/RL/Robotics (UAV) · Systems Builder
 
 Research Engineer @ Innovation for Future Technologies (IFT) × MIT Lab (HCI & AI), while completing an M.Eng in Computer Science & Cybersecurity 
 (GPA 4.0/4.0; S1 major); 
+
 CS Architect @ Microsoft (Security & AI)  threat intelligence and enterprise security architecture; 
 Founder/CTO building cloud systems, real-time pipelines, and Solana DeFi.
 
@@ -12,17 +13,17 @@ Founder/CTO building cloud systems, real-time pipelines, and Solana DeFi.
   real-time audio pipeline integrating **articulatory synthesis**, **psychoacoustic mapping**...
 ### Proteus Group — Founder (Tech Research Student Federation, EU)
 ### Founder (CEO & CTO), B2B Marketplace
-### Co-Founder / CTO, Solana DeFi (tokenized stocks) - *+2M$*
+### Co-Founder / CTO, Solana DeFi (tokenized stocks) - *+2.3M$*
 
 ## Awards (selected)
 - **Top 1% (High School)** · **Merit scholarship (€3,000)**
-- **National Mathematics Olympiad (High School)** — **2nd place**
-- **1st / 400** Venture Capital Hackathon · negotiated **€300K–€500K** backing - confidential
-- **3rd / 400** EU Web3 Hackathon (**€100K prize pool**) - Zero Knowledge proof : early stage technologie ! 
+- **National Mathematics Olympiad (Middle School)** — **2nd place**
+- **1st / ~400** Venture Capital Hackathon · negotiated **€300K–€500K** backing - confidential
+- **3rd / ~400** EU Web3 Hackathon (**€100K prize pool**) - Zero Knowledge proof : early stage technologie ! 
 - **1st / 180** GenAI Hack (AWS, NVIDIA, Mistral AI): built multimodal **RAG** geospatial risk platform; **sold for €50K** ( deployed - impact on **€40B ESG assets**)  
-- **1st / 450** Stanford Entrepreneurship Program Best Project Startup — Pitch Prize Finalist (solo) - Confidential
+- **1st / ~450** Stanford Entrepreneurship Program Best Project Startup — Pitch Prize Finalist (solo) - Confidential
 - **3rd / 50** Microsoft Agentic Systems
-- **3rd / 260** DeepMind/“Unaite” Agentic Systems (Cybersecurity)
+- **3rd / ~260** DeepMind/“Unaite” Agentic Systems (Cybersecurity)
 
 ## Technical Skills
 **Languages:** Python · Dart · Java · C++  
