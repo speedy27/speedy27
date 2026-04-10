@@ -1,19 +1,19 @@
 # Adrien S - Research Student (HCI × AI) · Security & AI · ML/RL/Robotics (UAV) · Systems Builder
 
 Research Engineer @ Innovation for Future Technologies (IFT) × MIT Lab (HCI & AI), while completing an M.Eng in Computer Science & Cybersecurity 
-(GPA 4.0/4.0; S1 major); 
+(GPA 3.9/4.0; major); 
 
 CS Architect @ Microsoft (Security & AI)  threat intelligence and enterprise security architecture; 
 Founder/CTO building cloud systems, real-time pipelines, and Solana DeFi.
 
-🎯 Internship 2027  
+🎯 Open for Internship 2027  
 
 ## Research & Key Projects
 ### Research Engineer HCI & AI research on **real-time gestural control of vocal synthesis** submission track (NIME 2026): *“Exploring Real-Time Gestural Control of Vocal Synthesis”*
   real-time audio pipeline integrating **articulatory synthesis**, **psychoacoustic mapping**...
 ### Proteus Group — Founder (Tech Research Student Federation, EU)
 ### Founder (CEO & CTO), B2B Marketplace
-### Co-Founder / CTO, Solana DeFi (tokenized stocks) - *+2.3M$*
+### Co-Founder / CTO, Solana DeFi (tokenized stocks) - *+4.7M$*
 
 ## Awards (selected)
 - **Top 1% (High School)** · **Merit scholarship (€3,000)**
