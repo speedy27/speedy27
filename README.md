@@ -1,7 +1,7 @@
 # Adrien S - Research Student (HCI × AI) · Security & AI · ML/RL/Robotics (UAV) · Systems Builder
 
 Research Engineer @ Innovation for Future Technologies (IFT) × MIT Lab (HCI & AI), while completing an M.Eng in Computer Science & Cybersecurity 
-(GPA 3.9/4.0; major); 
+(GPA 4/4; major); 
 
 CS Architect @ Microsoft (Security & AI)  threat intelligence and enterprise security architecture; 
 Founder/CTO building cloud systems, real-time pipelines, and Solana DeFi.
