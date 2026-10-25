@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Adrien%20Scazzola&fontSize=52&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=AI%20Research%20Engineer%20%C2%B7%20AI%20Security%20%C2%B7%20Agentic%20%C2%B7%20World%20Models&descAlignY=55&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Adrien&fontSize=52&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=AI%20Research%20Engineer%20%C2%B7%20AI%20Security%20%C2%B7%20Agentic%20%C2%B7%20World%20Models&descAlignY=55&descSize=17" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Research+Intern+%40+NAVER+LABS+Europe;CS+Architect+Security+%26+AI+%40+Microsoft;Research+Intern+%40+IFT+%C3%97+MIT+Lab-affiliated;Co-Founder+%26+Research+Director+%40+Proteus+Group;Open+for+Research+Internship+2027" alt="Typing SVG" />
 
